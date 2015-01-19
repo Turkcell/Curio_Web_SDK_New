@@ -89,7 +89,7 @@ Curio.hitEnd() fonksiyonunu kullanarak çağırım yapabilirsiniz.
 
 Ziyareti Bitir (End Visit)
 --------------
-**Not: Sayfa kapatıldığı zaman ziyaret kendiğilinden sonlanacaktır. Sizin ziyareti bitirmek için herhangi bir şey yapmanıza gerek yoktur.**
+**Sayfa kapatıldığı zaman ziyaret kendiğilinden sonlanacaktır. Sizin ziyareti bitirmek için herhangi bir şey yapmanıza gerek yoktur.**
 
 Dependencies
 ----
