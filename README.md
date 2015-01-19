@@ -48,9 +48,6 @@ Zorunlu Parametreler
   - pageTitle
   - path
 
-Opsiyonel Parametler
-  - Opsiyonel parametre yoktur.
-
 Örnek Kullanım
 --------------
 Curio.hitCreate() fonksiyonunu kullanarak çağırım yapabilirsiniz. 
@@ -66,9 +63,6 @@ Zorunlu Parametreler
   - eventKey
   - eventValue
 
-Opsiyonel Parametler
-  - Opsiyonel parametre yoktur.
-
 Örnek Kullanım
 --------------
 Curio.eventCreate() fonksiyonunu kullanarak çağırım yapabilirsiniz. 
@@ -83,9 +77,6 @@ Sayfa Çıkış (End Hit)
 Zorunlu Parametreler
   - pageTitle
   - path
-
-Opsiyonel Parametler
-  - Opsiyonel parametre yoktur.
 
 Örnek Kullanım
 --------------
