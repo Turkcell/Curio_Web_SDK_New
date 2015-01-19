@@ -40,7 +40,7 @@ Yeni Ziyaret (New Visit)
 --------------
 **Curio için sayfanıza eklediğiniz JavaScript kodu (Curio.init) ile yeni ziyaret yaratılacaktır. Sizin yeni bir ziyaret yaratmak için herhangi bir şey yapmanıza gerek yoktur.**  
 
-Yeni ziyaret yaratıldıktan sonra sunucudan gelen gelen parametreler kendiliğinden Curio.clientData nesnesine yazılacaktır. Sizin response ile ilgili başka bir şey yapmanıza gerek yoktur. Sunucu hatası, bağlantı hatası vb. sebeplerden ötürü yeni ziyaret yaratılamadığı zaman Curio'ya yapılacak her istek öncesi yeni ziyaret oluşturma denemesi yapılacaktır.
+Yeni ziyaret yaratıldıktan sonra sunucudan gelen gelen parametreler kendiliğinden Curio.clientData nesnesine yazılacaktır. Sizin response ile ilgili bir şey yapmanıza gerek yoktur. Sunucu hatası, bağlantı hatası vb. sebeplerden ötürü yeni ziyaret yaratılamadığı zaman Curio'ya yapılacak her istek öncesi yeni ziyaret oluşturma denemesi yapılacaktır.
 
 Yeni Sayfa (New Hit)
 --------------
